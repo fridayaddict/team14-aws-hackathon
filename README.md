@@ -76,8 +76,9 @@ RescueBot은 CloudWatch 알람을 실시간으로 모니터링하고, AI 분석�
 ```
 
 ## 동영상 데모
+**수동 작업 실행**
+<img width="692" height="388" alt="image" src="https://github.com/user-attachments/assets/4b23b32f-0ecd-4c3f-a911-3623faeb503a" />
 
-*데모 영상은 발표 시 제공됩니다.*
 
 ### 주요 데모 시나리오
 1. MySQL 연결 오류 발생 시뮬레이션
