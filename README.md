@@ -1,4 +1,4 @@
-<img width="762" height="791" alt="image" src="https://github.com/user-attachments/assets/d77137d0-d528-4b83-bbb0-db2be594bdfa" /># 이조합 : RescueBot 🤖
+## 이조합 : RescueBot 🤖
 
 **"솔루션 다운 때문에 다시 출근하지 말자! 우리의 워라밸 구조자 RescueBot"**
 
