@@ -1,4 +1,4 @@
-# 이조합 : RescueBot 🤖
+<img width="762" height="791" alt="image" src="https://github.com/user-attachments/assets/d77137d0-d528-4b83-bbb0-db2be594bdfa" /># 이조합 : RescueBot 🤖
 
 **"솔루션 다운 때문에 다시 출근하지 말자! 우리의 워라밸 구조자 RescueBot"**
 
@@ -100,7 +100,7 @@ curl http://localhost:3000/health
 ```
 
 ### AWS 클라우드 배포 아키텍처
-https://private-user-images.githubusercontent.com/204351384/486368459-f84e070e-2a30-43cb-b48d-0b2adf3b290e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcxNDMzMzcsIm5iZiI6MTc1NzE0MzAzNywicGF0aCI6Ii8yMDQzNTEzODQvNDg2MzY4NDU5LWY4NGUwNzBlLTJhMzAtNDNjYi1iNDhkLTBiMmFkZjNiMjkwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwNlQwNzE3MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDIyMTYxMGM2MjEyMjI3ZTgzYmE5ZjQ4Y2E3YjY2OTEyNTU2OWFjNmRmZTdlNmY5ZmFiN2YxNjVkN2U3MDQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FVQuapgp2CHiV2-e12t7vOfVEgwssM9s5ndRbl5ebrY
+<img width="762" height="791" alt="image" src="https://github.com/user-attachments/assets/0c2aa6df-c6ac-48d9-a97f-ac17c7958e20" />
 
 ### 리소스 정리
 
