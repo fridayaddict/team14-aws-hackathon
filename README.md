@@ -19,6 +19,7 @@ RescueBot은 CloudWatch 알람을 실시간으로 모니터링하고, AI 분석�
 **<자동 복구>**
 <img width="1150" height="553" alt="Image" src="https://github.com/user-attachments/assets/2804ec71-5eeb-4936-ba57-7a7fcdf3e4e5" />
 **<수동 복구>**
+
 <img width="474" height="497" alt="Image" src="https://github.com/user-attachments/assets/41bb335a-2e69-4215-ae85-986061e4c486" />
 
 
