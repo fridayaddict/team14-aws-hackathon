@@ -100,34 +100,7 @@ curl http://localhost:3000/health
 ```
 
 ### AWS 클라우드 배포 아키텍처
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                        AWS Cloud                            │
-│                                                             │
-│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐ │
-│  │     ALB     │───▶│     EC2      │───▶│       RDS       │ │
-│  │             │    │  (RescueBot)  │    │     MySQL       │ │
-│  └─────────────┘    └──────────────┘    └─────────────────┘ │
-│                             │                               │
-│                             ▼                               │
-│                    ┌──────────────┐                        │
-│                    │   Bedrock    │                        │
-│                    │   Claude 3   │                        │
-│                    └──────────────┘                        │
-│                                                             │
-│  ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐ │
-│  │ CloudWatch  │───▶│  EventBridge │───▶│     Lambda      │ │
-│  │   Alarms    │    │              │    │   (Webhook)     │ │
-│  └─────────────┘    └──────────────┘    └─────────────────┘ │
-└─────────────────────────────────────────────────────────────┘
-                             │
-                             ▼
-                    ┌──────────────┐
-                    │    Slack     │
-                    │ Notifications│
-                    └──────────────┘
-```
+https://private-user-images.githubusercontent.com/204351384/486368459-f84e070e-2a30-43cb-b48d-0b2adf3b290e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcxNDMzMzcsIm5iZiI6MTc1NzE0MzAzNywicGF0aCI6Ii8yMDQzNTEzODQvNDg2MzY4NDU5LWY4NGUwNzBlLTJhMzAtNDNjYi1iNDhkLTBiMmFkZjNiMjkwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwNlQwNzE3MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDIyMTYxMGM2MjEyMjI3ZTgzYmE5ZjQ4Y2E3YjY2OTEyNTU2OWFjNmRmZTdlNmY5ZmFiN2YxNjVkN2U3MDQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FVQuapgp2CHiV2-e12t7vOfVEgwssM9s5ndRbl5ebrY
 
 ### 리소스 정리
 
