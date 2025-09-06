@@ -106,8 +106,8 @@ curl http://localhost:3000/health
 
 ```bash
 
-# AWS 리소스 정리 (Terraform 사용 시)
-terraform destroy
+# AWS 리소스 정리
+cloudformation 에서 제거
 ```
 
 ## 프로젝트 기대 효과 및 예상 사용 사례
