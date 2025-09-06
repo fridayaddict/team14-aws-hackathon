@@ -77,7 +77,8 @@ RescueBot은 CloudWatch 알람을 실시간으로 모니터링하고, AI 분석�
 
 ## 동영상 데모
 **수동 작업 실행**
-<img width="692" height="388" alt="image" src="https://github.com/user-attachments/assets/4b23b32f-0ecd-4c3f-a911-3623faeb503a" />
+
+![Image](https://github.com/user-attachments/assets/7f2f61ad-f9a0-407e-a604-3b9e513918da)
 
 
 ### 주요 데모 시나리오
